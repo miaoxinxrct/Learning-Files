@@ -29,5 +29,6 @@ int main()
         x=chu;
         wei++;
     }
+    return 0;
 }
 
