@@ -17,6 +17,6 @@ class D:public B,public C{};
 int main()
 {
     D d;
-    d.vf();
+    d.vf();//error
     return 0;
 }
