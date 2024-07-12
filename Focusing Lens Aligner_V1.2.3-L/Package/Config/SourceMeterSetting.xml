@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<cSourceMeterSettingCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceMeterInfor>
+    <cSingleSourceMeterSettingInformation>
+      <sourceMeterName>Keithley2401-1</sourceMeterName>
+      <sourceMeterType>K2401</sourceMeterType>
+      <communicateType>GPIB</communicateType>
+      <comBaudRate>0</comBaudRate>
+      <boardID>0</boardID>
+      <communicateAddress>24</communicateAddress>
+      <usedState>True</usedState>
+    </cSingleSourceMeterSettingInformation>
+  </SourceMeterInfor>
+</cSourceMeterSettingCollection>

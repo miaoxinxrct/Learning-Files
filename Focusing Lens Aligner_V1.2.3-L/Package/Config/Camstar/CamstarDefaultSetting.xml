@@ -1,0 +1,17 @@
+<CamstarDefaultSetting>
+<EnvironmentSetting>
+<EnvironmentName>Production</EnvironmentName>
+<ServerName>cn-prod03\prod02</ServerName>
+<DatabaseName>AutomationEtracking</DatabaseName>
+<UserName>swuser</UserName>
+<Password>jpq~I&lt;&gt;?:</Password>
+</EnvironmentSetting>
+<EnvironmentSetting>
+<EnvironmentName>Test</EnvironmentName>
+<ServerName>cn-csstaging</ServerName>
+<DatabaseName>Insite</DatabaseName>
+<UserName>insite</UserName>
+<Password>kzmH|9~m</Password>
+</EnvironmentSetting>
+</CamstarDefaultSetting>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<cCameraSettingCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CameraInfor>
+    <cSingleCameraSettingInformation>
+      <CCdType>SV20000E_Card</CCdType>
+      <CameraName>DnCamera</CameraName>
+      <CameraSn>SV2000E_Card#0_Port#1</CameraSn>
+      <ExposureTime>1000</ExposureTime>
+      <Gain>0</Gain>
+      <Height>480</Height>
+      <Width>640</Width>
+      <Format>PAL</Format>
+    </cSingleCameraSettingInformation>
+    <cSingleCameraSettingInformation>
+      <CCdType>AVTCCD</CCdType>
+      <CameraName>UpCamera</CameraName>
+      <CameraSn>302732587</CameraSn>
+      <ExposureTime>40000</ExposureTime>
+      <Gain>0</Gain>
+      <Height>1038</Height>
+      <Width>1388</Width>
+      <Format>MONO8</Format>
+    </cSingleCameraSettingInformation>
+  </CameraInfor>
+</cCameraSettingCollection>

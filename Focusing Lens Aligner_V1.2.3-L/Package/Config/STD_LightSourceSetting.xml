@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<LightSourceConfigurationCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <para>
+    <LightSourceConfig>
+      <LedName>UpRing</LedName>
+      <DeviceType>Mightex</DeviceType>
+      <Port>0</Port>
+      <ChannelNo>2</ChannelNo>
+      <CurrentMax>200</CurrentMax>
+      <WorkInterface>Usb</WorkInterface>
+      <Para />
+    </LightSourceConfig>
+    <LightSourceConfig>
+      <LedName>UpSpot</LedName>
+      <DeviceType>Mightex</DeviceType>
+      <Port>0</Port>
+      <ChannelNo>1</ChannelNo>
+      <CurrentMax>200</CurrentMax>
+      <WorkInterface>Usb</WorkInterface>
+      <Para />
+    </LightSourceConfig>
+    <LightSourceConfig>
+      <LedName>DnRing</LedName>
+      <DeviceType>Mightex</DeviceType>
+      <Port>1</Port>
+      <ChannelNo>1</ChannelNo>
+      <CurrentMax>200</CurrentMax>
+      <WorkInterface>Usb</WorkInterface>
+      <Para />
+    </LightSourceConfig>
+    <LightSourceConfig>
+      <LedName>DnSpot</LedName>
+      <DeviceType>Mightex</DeviceType>
+      <Port>1</Port>
+      <ChannelNo>2</ChannelNo>
+      <CurrentMax>200</CurrentMax>
+      <WorkInterface>Usb</WorkInterface>
+      <Para />
+    </LightSourceConfig>
+  </para>
+</LightSourceConfigurationCollection>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DAQConfiguration>
+  <DAQ>
+    <CardType>NOTSELECT</CardType>
+    <DAQCount>0</DAQCount>
+    <CardNumbers />
+  </DAQ>
+  <IO>
+    <CardType>ADLINK</CardType>
+    <IOCount>3</IOCount>
+    <CardNumbers>
+      <Number0>0</Number0>
+      <Number1>1</Number1>
+      <Number2>2</Number2>
+    </CardNumbers>
+  </IO>
+</DAQConfiguration>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<RuntimeConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RuntimeSavePath>D:\AutomationApplication\RealRunTime\</RuntimeSavePath>
+  <Rigname>Focusing_Lens_Aligner_#69</Rigname>
+  <RigAsset>YGS-MK2407681</RigAsset>
+  <UploadTime>10</UploadTime>
+  <EnableUpdate>true</EnableUpdate>
+  <Server>cn-cssql</Server>
+  <User>SHG_OSA_TEST</User>
+  <Password>shgosatest</Password>
+  <Database>EngrData</Database>
+  <TableName>[SHG_OSA_Test].[EQUIPMENT_STATUS_EVENT]</TableName>
+  <Timeout>100</Timeout>
+  <ARMSServer>CN-Automation-DB1\PROD03</ARMSServer>
+  <ARMSUser>ARMS_read</ARMSUser>
+  <ARMSPassword>9mROqfiD</ARMSPassword>
+  <ARMSDatabase>ARMS</ARMSDatabase>
+  <ARMSTableName>[ARMS].[dbo].[RigInformation]</ARMSTableName>
+  <ARMSTimeout>100</ARMSTimeout>
+  <CommandText>SELECT [AssetNo],[RigResourceName] from {0} where [ComputerName] = '{1}'</CommandText>
+</RuntimeConfig>

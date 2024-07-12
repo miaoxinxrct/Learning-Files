@@ -1,0 +1,588 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>STD_IElectricGripper</name>
+    </assembly>
+    <members>
+        <member name="T:STD_IElectricGripper.CreatObjectError">
+            <summary>
+            Error Type
+            </summary>
+        </member>
+        <member name="F:STD_IElectricGripper.CreatObjectError.NoError">
+            <summary>
+            No Error
+            </summary>
+        </member>
+        <member name="F:STD_IElectricGripper.CreatObjectError.Warning_FileNotFind">
+            <summary>
+            File Not Find
+            </summary>
+        </member>
+        <member name="F:STD_IElectricGripper.CreatObjectError.Warning_ObjectClassError">
+            <summary>
+            Object Class Error
+            </summary>
+        </member>
+        <member name="T:STD_IElectricGripper.ElectricGripperConfig">
+            <summary>
+            Electric Gripper Config
+            </summary>
+        </member>
+        <member name="P:STD_IElectricGripper.ElectricGripperConfig.GripperType">
+            <summary>
+            Gripper Type
+            </summary>
+        </member>
+        <member name="P:STD_IElectricGripper.ElectricGripperConfig.ControllerInterface">
+            <summary>
+            Controller Interface
+            </summary>
+        </member>
+        <member name="P:STD_IElectricGripper.ElectricGripperConfig.AxisID">
+            <summary>
+            Axis ID
+            </summary>
+        </member>
+        <member name="P:STD_IElectricGripper.ElectricGripperConfig.PortNumber">
+            <summary>
+            Port Number
+            </summary>
+        </member>
+        <member name="P:STD_IElectricGripper.ElectricGripperConfig.GripperName">
+            <summary>
+            Gripper Name
+            </summary>
+        </member>
+        <member name="P:STD_IElectricGripper.ElectricGripperConfig.PositionName">
+            <summary>
+            Position Name
+            </summary>
+        </member>
+        <member name="P:STD_IElectricGripper.ElectricGripperConfig.PositionID">
+            <summary>
+            Position ID
+            </summary>
+        </member>
+        <member name="P:STD_IElectricGripper.ElectricGripperConfig.Description">
+            <summary>
+            Description
+            </summary>
+        </member>
+        <member name="T:STD_IElectricGripper.ElectricGripperConfigCollection">
+            <summary>
+            Electric Gripper Config Collection
+            </summary>
+        </member>
+        <member name="P:STD_IElectricGripper.ElectricGripperConfigCollection.PositionParameter">
+            <summary>
+            Position Parameter List
+            </summary>
+        </member>
+        <member name="T:STD_IElectricGripper.cElectricGripperTool">
+            <summary>
+            Electric gripper controller tools
+            </summary>
+        </member>
+        <member name="P:STD_IElectricGripper.cElectricGripperTool.ElectricGripperControlHandle">
+            <summary>
+            Electric Gripper Device Control Handle
+            </summary>
+        </member>
+        <member name="M:STD_IElectricGripper.cElectricGripperTool.OpenConfigurationFrm">
+            <summary>
+            打开电爪控制器参数配置面板
+            </summary>
+        </member>
+        <member name="M:STD_IElectricGripper.cElectricGripperTool.ElectricGripperControl_InitialAllDevice(System.Int32@)">
+            <summary>
+            初始化所有电爪控制器并分配资源
+            </summary>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cElectricGripperTool.ElectricGripperControl_ReleaseAllDevice(System.Int32@)">
+            <summary>
+            释放所有电爪控制器占用资源
+            </summary>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cElectricGripperTool.ElectricGripperControl_OpenDevice(System.String,System.Int32@)">
+            <summary>
+            建立电爪控制器通信连接
+            </summary>
+            <param name="gripperName">电爪名称</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cElectricGripperTool.ElectricGripperControl_CloseDevice(System.String,System.Int32@)">
+            <summary>
+            断开电爪控制器通信连接
+            </summary>
+            <param name="gripperName">电爪名称</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cElectricGripperTool.ElectricGripperControl_ClearAlarmSignal(System.String,System.Int32@)">
+            <summary>
+            清除电爪控制器内部所有报警信息
+            </summary>
+            <param name="gripperName">电爪名称</param>
+            <param name="retErrorCode">出错返回码</param> 
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cElectricGripperTool.ElectricGripperControl_ServoOn(System.String,System.Boolean,System.Int32@)">
+            <summary>
+            电爪驱动电机伺服开启/关闭切换
+            </summary>
+            <param name="gripperName">电爪名称</param>
+            <param name="servoOn">true－伺服开启；false－伺服关闭</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cElectricGripperTool.ElectricGripperControl_IsServoOn(System.String,System.Boolean@,System.Int32@)">
+            <summary>
+            查询电爪驱动电机伺服开启状态
+            </summary>
+            <param name="gripperName">电爪名称</param> 
+            <param name="servoOn">true－伺服开启；false－伺服关闭</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cElectricGripperTool.ElectricGripperControl_HomeMove(System.String,System.Int32@)">
+            <summary>
+            执行电爪Home归零运动
+            </summary>
+            <param name="gripperName">电爪名称</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cElectricGripperTool.ElectricGripperControl_IsHomeCompleted(System.String,System.Boolean@,System.Int32@)">
+            <summary>
+            查询电爪是否执行过Home归零运动
+            </summary>
+            <param name="gripperName">电爪名称</param> 
+            <param name="homed">true－已执行；false－未执行</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cElectricGripperTool.ElectricGripperControl_PositionMove(System.String,System.String,System.Int32@)">
+            <summary>
+            电爪运动到指定位置
+            </summary>
+            <param name="gripperName">电爪名称</param> 
+            <param name="positionName">位置名称</param>
+            <param name="retErrorCode">出错返回码</param> 
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cElectricGripperTool.ElectricGripperControl_IsPositionMoveCompleted(System.String,System.Boolean@,System.Int32@)">
+            <summary>
+            查询电爪定位运动是否成功完成
+            </summary>
+            <param name="gripperName">电爪名称</param> 
+            <param name="pend">true－定位运动成功完成；false－定位运动未完成</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cElectricGripperTool.ElectricGripperControl_GetCurrentPositionID(System.String,System.UInt16@,System.Int32@)">
+            <summary>
+            获取电爪当前位置的定位点编号
+            </summary>
+            <param name="gripperName">电爪名称</param>
+            <param name="currentPositionID">电爪当前位置的定位点编号</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cElectricGripperTool.ElectricGripperControl_GetMotorCurrentAmpere(System.String,System.UInt32@,System.Int32@)">
+            <summary>
+            获取电爪驱动轴伺服电机当前的电流值
+            </summary>
+            <param name="gripperName">电爪名称</param> 
+            <param name="currentAmpere">电流值(单位:毫安)</param>
+            <param name="retErrorCode">出错提示返回码</param> 
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cElectricGripperTool.ElectricGripperControl_GetErrorMessage(System.Int32,System.String@)">
+            <summary>
+            获取运行出错提示返回码对应的出错信息
+            </summary>
+            <param name="errorMessage">出错信息</param>
+            <param name="retErrorCode">出错提示返回码</param> 
+            <returns></returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cElectricGripperTool.CreatLightControlObj(STD_IElectricGripper.ElectricGripperType,STD_IElectricGripper.IElectricGripper@)">
+            <summary>
+            创建电爪控制对象 
+            </summary>
+            <param name="GripperType">电爪类型</param>
+            <param name="Obj">电爪控制对象</param>
+            <returns></returns>
+        </member>
+        <member name="F:STD_IElectricGripper.STD_IElectricGripperConfiguration.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:STD_IElectricGripper.STD_IElectricGripperConfiguration.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:STD_IElectricGripper.STD_IElectricGripperConfiguration.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:STD_IElectricGripper.cIAIGripper.ElectricGripperControl_InitialDevice(System.String,STD_IElectricGripper.ControllerInterfaceType,System.Int32,System.Int32@)">
+            <summary>
+            初始化电爪控制器
+            </summary>
+            <param name="comPort">控制器通信端口名称</param>
+            <param name="interfaceType">控制器接口方式</param>
+            <param name="axisID">轴编号</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cIAIGripper.ElectricGripperControl_OpenDevice(System.String,STD_IElectricGripper.ControllerInterfaceType,System.Int32,System.Int32@)">
+            <summary>
+            打开电爪控制器
+            </summary>
+            <param name="comPort">控制器通信端口名称</param>
+            <param name="interfaceType">控制器接口方式</param>
+            <param name="axisID">轴编号</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cIAIGripper.ElectricGripperControl_CloseDevice(System.String,STD_IElectricGripper.ControllerInterfaceType,System.Int32,System.Int32@)">
+            <summary>
+            关闭电爪控制器
+            </summary>
+            <param name="comPort">控制器通信端口名称</param>
+            <param name="interfaceType">控制器接口方式</param>
+            <param name="axisID">轴编号</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cIAIGripper.ElectricGripperControl_ClearAlarmSignal(System.String,System.Int32,System.Int32@)">
+            <summary>
+            清除电爪控制器内部所有报警(0407)
+            </summary>
+            <param name="comPort">控制器通信端口名称</param>
+            <param name="axisID">轴编号</param>
+            <param name="retErrorCode">出错返回码</param> 
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cIAIGripper.ElectricGripperControl_GetAlarmCode(System.String,System.Int32,System.UInt16@,System.Int32@)">
+            <summary>
+            获取电爪控制器内部出错报警代码(9002)
+            </summary>
+            <param name="comPort">控制器通信端口名称</param> 
+            <param name="axisID">轴编号</param> 
+            <param name="alarmCode">控制器出错报警代码</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cIAIGripper.ElectricGripperControl_ServoOn(System.String,System.Int32,System.Boolean,System.Int32@)">
+            <summary>
+            电爪驱动轴伺服开启/关闭切换(0403)
+            </summary>
+            <param name="comPort">控制器通信端口名称</param>
+            <param name="axisID">轴编号</param> 
+            <param name="on">切换状态：true－开启；false－关闭</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cIAIGripper.ElectricGripperControl_IsServoOn(System.String,System.Int32,System.Boolean@,System.Int32@)">
+            <summary>
+            查询电爪驱动轴伺服On/Off状态(获取SV信号状态)
+            </summary>
+            <param name="comPort">控制器通信端口名称</param> 
+            <param name="axisID">轴编号</param>
+            <param name="svFlag">伺服On状态</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cIAIGripper.ElectricGripperControl_HomeMove(System.String,System.Int32,System.Int32@)">
+            <summary>
+            触发电爪驱动轴Home归零运动(040B)
+            </summary>
+            <param name="comPort">控制器通信端口名称</param>
+            <param name="axisID">轴编号</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cIAIGripper.ElectricGripperControl_IsHomeCompleted(System.String,System.Int32,System.Boolean@,System.Int32@)">
+            <summary>
+            查询电爪驱动轴Home归零运动是否完成(获取HEND信号状态)
+            </summary>
+            <param name="comPort">控制器通信端口名称</param> 
+            <param name="axisID">轴编号</param>
+            <param name="hendFlag">轴归零运动完成标志</param>
+            <param name="retErrorCode">出错返回码</param> 
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cIAIGripper.ElectricGripperControl_GetCurrentPositionID(System.String,System.Int32,System.UInt16@,System.Int32@)">
+            <summary>
+            获取电爪驱动轴当前位置的定位点编号(9014)
+            </summary>
+            <param name="comPort">控制器通信端口名称</param> 
+            <param name="axisID">轴编号</param>
+            <param name="currentPositionID">轴当前位置的定位点编号</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cIAIGripper.ElectricGripperControl_PositionMove(System.String,System.Int32,System.Int32,System.Int32@)">
+            <summary>
+            直接触发电爪驱动轴运动至指定编号的定位点位置(9800)
+            </summary>
+            <param name="comPort">控制器通信端口名称</param> 
+            <param name="axisID">轴编号</param>
+            <param name="positionID">定位点编号</param>
+            <param name="retErrorCode">出错返回码</param> 
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cIAIGripper.ElectricGripperControl_IsPositionMoveCompleted(System.String,System.Int32,System.Boolean@,System.Int32@)">
+            <summary>
+            查询电爪驱动轴定位运动是否完成(获取PEND信号状态)
+            </summary>
+            <param name="comPort">控制器通信端口名称</param> 
+            <param name="axisID">轴编号</param>
+            <param name="pendFlag">轴定位运动完成标志</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cIAIGripper.ElectricGripperControl_GetMotorCurrentAmpere(System.String,System.Int32,System.UInt32@,System.Int32@)">
+            <summary>
+            获取电爪驱动轴伺服电机当前的电流值(900C)
+            </summary>
+            <param name="comPort">控制器通信端口名称</param> 
+            <param name="axisID">轴编号</param>
+            <param name="currentAmpere">电流值(单位:毫安)</param>
+            <param name="retErrorCode">出错提示返回码</param> 
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cIAIGripper.ComPortTimeDelay(System.Int32)">
+            <summary>
+            串口通信毫秒级延时
+            </summary>
+            <param name="DelayTime">延时时间(ms毫秒)</param> 
+            <returns>无</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cIAIGripper.ComPortGetCommandChecksum(System.Byte[],System.Int32)">
+            <summary>
+            计算通信命令串CRC校验值
+            </summary>
+            <param name="commandBytes">命令串</param> 
+            <param name="commandStringLength">命令串总字节数</param>
+            <returns>双字节CRC校验和</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cIAIGripper.ComPortClearReceiveBuffer(System.String)">
+            <summary>
+            清空轴控制器通信串口的接收缓冲区
+            </summary>
+            <param name="comPort">控制器通信端口名称</param>
+            <returns>无</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cIAIGripper.ComPortClearSendBuffer(System.String)">
+            <summary>
+            清空轴控制器通信串口的发送缓冲区
+            </summary>
+            <param name="comPort">控制器通信端口名称</param> 
+            <returns>无</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cIAIGripper.ComPortGetReceiveAmount(System.String)">
+            <summary>
+            获取轴控制器通信串口接收到的总字节数
+            </summary>
+            <param name="comPort">控制器通信端口名称</param> 
+            <returns>返回接收到的总字节数</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cIAIGripper.ComPortReadReceiveBuffer(System.String,System.Byte[]@,System.Int32,System.Int32@)">
+            <summary>
+            从轴控制器通信串口读取指定字节的数据
+            </summary>
+            <param name="comPort">控制器通信端口名称</param>  
+            <param name="receivedBytes">数据缓冲区</param> 
+            <param name="readStringLength">需要读取的字节数</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cIAIGripper.ComPortSendCommand(System.String,System.Byte[],System.Int32,System.Int32@)">
+            <summary>
+            通过串口向电爪控制器发送命令
+            </summary>
+            <param name="comPort">控制器通信端口名称</param> 
+            <param name="commandBytes">命令串</param> 
+            <param name="commandStringLength">命令串总字节数</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cIAIGripper.GetDeviceStatusRegisterValue(System.String,System.Int32,System.Int32,System.UInt16@,System.Int32@)">
+            <summary>
+            获取电爪控制器内部状态寄存器值(9005/9006/9007)
+            </summary>
+            <param name="comPort">控制器通信端口名称</param> 
+            <param name="axisID">轴编号</param>
+            <param name="statusRegisterID">状态寄存器编号：1/2/3</param>
+            <param name="registerValue">设备状态寄存器值</param>
+            <param name="retErrorCode">出错返回码</param> 
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.cIAIGripper.ElectricGripperControl_ChangeControlMode(System.String,System.Int32,STD_IElectricGripper.cIAIGripper.ControlMode,System.Int32@)">
+            <summary>
+            电爪控制器通信控制模式(PIO/Modbus)切换(0427)
+            </summary>
+            <param name="comPort">控制器通信端口名称</param>
+            <param name="axisID">轴编号</param> 
+            <param name="controlMode">控制模式：1－Modbus通信模式；0－PIO通信模式</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="T:STD_IElectricGripper.ElectricGripperType">
+            <summary>
+            电爪类型
+            </summary>
+        </member>
+        <member name="T:STD_IElectricGripper.ControllerInterfaceType">
+            <summary>
+            控制器通信接口形式
+            </summary>
+        </member>
+        <member name="T:STD_IElectricGripper.IElectricGripper">
+            <summary>
+            ElectricGripper Interface
+            </summary>
+        </member>
+        <member name="M:STD_IElectricGripper.IElectricGripper.ElectricGripperControl_InitialDevice(System.String,STD_IElectricGripper.ControllerInterfaceType,System.Int32,System.Int32@)">
+            <summary>
+            初始化指定的电爪控制器
+            </summary>
+            <param name="comPort">控制器通信端口名称</param>
+            <param name="interfaceType">控制器接口方式</param>
+            <param name="axisID">轴编号</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.IElectricGripper.ElectricGripperControl_OpenDevice(System.String,STD_IElectricGripper.ControllerInterfaceType,System.Int32,System.Int32@)">
+            <summary>
+            建立指定电爪控制器的通信连接
+            </summary>
+            <param name="comPort">控制器通信端口名称</param>
+            <param name="interfaceType">控制器接口方式</param>
+            <param name="axisID">轴编号</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.IElectricGripper.ElectricGripperControl_CloseDevice(System.String,STD_IElectricGripper.ControllerInterfaceType,System.Int32,System.Int32@)">
+            <summary>
+            断开指定电爪控制器的通信连接
+            </summary>
+            <param name="comPort">控制器通信端口名称</param>
+            <param name="interfaceType">控制器接口方式</param>
+            <param name="axisID">轴编号</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.IElectricGripper.ElectricGripperControl_ClearAlarmSignal(System.String,System.Int32,System.Int32@)">
+            <summary>
+            清除指定电爪控制器内部所有报警信息
+            </summary>
+            <param name="comPort">控制器通信端口名称</param>
+            <param name="axisID">轴编号</param>
+            <param name="retErrorCode">出错返回码</param> 
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.IElectricGripper.ElectricGripperControl_GetAlarmCode(System.String,System.Int32,System.UInt16@,System.Int32@)">
+            <summary>
+            获取指定电爪控制器内部出错报警代码
+            </summary>
+            <param name="comPort">控制器通信端口名称</param> 
+            <param name="axisID">轴编号</param> 
+            <param name="alarmCode">控制器出错报警代码</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.IElectricGripper.ElectricGripperControl_ServoOn(System.String,System.Int32,System.Boolean,System.Int32@)">
+            <summary>
+            指定电爪驱动轴的伺服开启/关闭切换
+            </summary>
+            <param name="comPort">控制器通信端口名称</param>
+            <param name="axisID">轴编号</param> 
+            <param name="on">切换状态：true－开启；false－关闭</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.IElectricGripper.ElectricGripperControl_IsServoOn(System.String,System.Int32,System.Boolean@,System.Int32@)">
+            <summary>
+            查询指定电爪驱动轴的伺服开启/关闭状态
+            </summary>
+            <param name="comPort">控制器通信端口名称</param> 
+            <param name="axisID">轴编号</param>
+            <param name="svFlag">伺服On状态</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.IElectricGripper.ElectricGripperControl_HomeMove(System.String,System.Int32,System.Int32@)">
+            <summary>
+            执行指定电爪驱动轴的Home归零运动
+            </summary>
+            <param name="comPort">控制器通信端口名称</param>
+            <param name="axisID">轴编号</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.IElectricGripper.ElectricGripperControl_IsHomeCompleted(System.String,System.Int32,System.Boolean@,System.Int32@)">
+            <summary>
+            查询指定电爪驱动轴的Home归零运动是否完成
+            </summary>
+            <param name="comPort">控制器通信端口名称</param> 
+            <param name="axisID">轴编号</param>
+            <param name="hendFlag">轴归零运动完成标志</param>
+            <param name="retErrorCode">出错返回码</param> 
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.IElectricGripper.ElectricGripperControl_PositionMove(System.String,System.Int32,System.Int32,System.Int32@)">
+            <summary>
+            直接触发指定电爪驱动轴运动到指定编号的定位点位置
+            </summary>
+            <param name="comPort">控制器通信端口名称</param> 
+            <param name="axisID">轴编号</param>
+            <param name="positionID">定位点编号</param>
+            <param name="retErrorCode">出错返回码</param> 
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.IElectricGripper.ElectricGripperControl_IsPositionMoveCompleted(System.String,System.Int32,System.Boolean@,System.Int32@)">
+            <summary>
+            查询指定电爪驱动轴的定位运动是否完成
+            </summary>
+            <param name="comPort">控制器通信端口名称</param> 
+            <param name="axisID">轴编号</param>
+            <param name="pendFlag">轴定位运动完成标志</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.IElectricGripper.ElectricGripperControl_GetCurrentPositionID(System.String,System.Int32,System.UInt16@,System.Int32@)">
+            <summary>
+            获取指定电爪驱动轴当前位置的定位点编号
+            </summary>
+            <param name="comPort">控制器通信端口名称</param> 
+            <param name="axisID">轴编号</param>
+            <param name="currentPositionID">轴当前位置的定位点编号</param>
+            <param name="retErrorCode">出错返回码</param>
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+        <member name="M:STD_IElectricGripper.IElectricGripper.ElectricGripperControl_GetMotorCurrentAmpere(System.String,System.Int32,System.UInt32@,System.Int32@)">
+            <summary>
+            获取指定电爪驱动轴伺服电机当前的电流值
+            </summary>
+            <param name="comPort">控制器通信端口名称</param> 
+            <param name="axisID">轴编号</param>
+            <param name="currentAmpere">电流值(单位:毫安)</param>
+            <param name="retErrorCode">出错提示返回码</param> 
+            <returns>返回操作成功标志：true－成功；false－失败</returns>
+        </member>
+    </members>
+</doc>

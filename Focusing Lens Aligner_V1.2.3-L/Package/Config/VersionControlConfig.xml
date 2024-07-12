@@ -1,0 +1,8 @@
+<VersionControlConfig>
+  <UpdateSetting>
+    <RootOnly>true</RootOnly>
+    <ChangeOnly>true</ChangeOnly>
+    <DllOnly>true</DllOnly>
+    <Extensions>.dll</Extensions>
+  </UpdateSetting>
+</VersionControlConfig>

@@ -1,0 +1,380 @@
+D:\Lens2 C#\Focusing Lens Aligner_20220630\Package\FocusingLensAligner.exe.config
+D:\Lens2 C#\Focusing Lens Aligner_20220630\Package\FocusingLensAligner.exe
+D:\Lens2 C#\Focusing Lens Aligner_20220630\Package\FocusingLensAligner.pdb
+D:\Lens2 C#\Focusing Lens Aligner_20220630\FocusingLensAligner\obj\Release\FocusingLensAligner.EngineerForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220630\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyTestForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220630\FocusingLensAligner\obj\Release\FocusingLensAligner.PasswordPanel.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220630\FocusingLensAligner\obj\Release\FocusingLensAligner.ProductConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220630\FocusingLensAligner\obj\Release\FocusingLensAligner.SystemConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220630\FocusingLensAligner\obj\Release\FocusingLensAligner.AxisConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220630\FocusingLensAligner\obj\Release\FocusingLensAligner.MainForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220630\FocusingLensAligner\obj\Release\FocusingLensAligner.ForceSensorConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220630\FocusingLensAligner\obj\Release\FocusingLensAligner.IAIGripperConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220630\FocusingLensAligner\obj\Release\FocusingLensAligner.IOConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220630\FocusingLensAligner\obj\Release\FocusingLensAligner.QRCodeScannerConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220630\FocusingLensAligner\obj\Release\FocusingLensAligner.SMCCardMotionConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220630\FocusingLensAligner\obj\Release\FocusingLensAligner.MESConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220630\FocusingLensAligner\obj\Release\FocusingLensAligner.Properties.Resources.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220630\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.GenerateResource.cache
+D:\Lens2 C#\Focusing Lens Aligner_20220630\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CoreCompileInputs.cache
+D:\Lens2 C#\Focusing Lens Aligner_20220630\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CopyComplete
+D:\Lens2 C#\Focusing Lens Aligner_20220630\FocusingLensAligner\obj\Release\FocusingLensAligner.exe
+D:\Lens2 C#\Focusing Lens Aligner_20220630\FocusingLensAligner\obj\Release\FocusingLensAligner.pdb
+D:\Lens2 C#\Focusing Lens Aligner_20220705\FocusingLensAligner\obj\Release\FocusingLensAligner.EngineerForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220705\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyTestForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220705\FocusingLensAligner\obj\Release\FocusingLensAligner.PasswordPanel.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220705\FocusingLensAligner\obj\Release\FocusingLensAligner.ProductConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220705\FocusingLensAligner\obj\Release\FocusingLensAligner.SystemConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220705\FocusingLensAligner\obj\Release\FocusingLensAligner.AxisConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220705\FocusingLensAligner\obj\Release\FocusingLensAligner.MainForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220705\FocusingLensAligner\obj\Release\FocusingLensAligner.ForceSensorConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220705\FocusingLensAligner\obj\Release\FocusingLensAligner.IAIGripperConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220705\FocusingLensAligner\obj\Release\FocusingLensAligner.IOConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220705\FocusingLensAligner\obj\Release\FocusingLensAligner.QRCodeScannerConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220705\FocusingLensAligner\obj\Release\FocusingLensAligner.SMCCardMotionConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220705\FocusingLensAligner\obj\Release\FocusingLensAligner.MESConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220705\FocusingLensAligner\obj\Release\FocusingLensAligner.Properties.Resources.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220705\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.GenerateResource.cache
+D:\Lens2 C#\Focusing Lens Aligner_20220705\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CoreCompileInputs.cache
+D:\Lens2 C#\Focusing Lens Aligner_20220705\FocusingLensAligner\obj\Release\FocusingLensAligner.exe
+D:\Lens2 C#\Focusing Lens Aligner_20220705\FocusingLensAligner\obj\Release\FocusingLensAligner.pdb
+D:\Lens2 C#\Focusing Lens Aligner_20220705\Package\FocusingLensAligner.exe.config
+D:\Lens2 C#\Focusing Lens Aligner_20220705\Package\FocusingLensAligner.exe
+D:\Lens2 C#\Focusing Lens Aligner_20220705\Package\FocusingLensAligner.pdb
+D:\Lens2 C#\Focusing Lens Aligner_20220705\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CopyComplete
+D:\Lens2 C#\Focusing Lens Aligner_20220705\FocusingLensAligner\obj\Release\FocusingLensAligner.csprojAssemblyReference.cache
+D:\Lens2 C#\Focusing Lens Aligner_20220706\Package\FocusingLensAligner.exe.config
+D:\Lens2 C#\Focusing Lens Aligner_20220706\Package\FocusingLensAligner.exe
+D:\Lens2 C#\Focusing Lens Aligner_20220706\Package\FocusingLensAligner.pdb
+D:\Lens2 C#\Focusing Lens Aligner_20220706\FocusingLensAligner\obj\Release\FocusingLensAligner.csprojAssemblyReference.cache
+D:\Lens2 C#\Focusing Lens Aligner_20220706\FocusingLensAligner\obj\Release\FocusingLensAligner.EngineerForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220706\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyTestForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220706\FocusingLensAligner\obj\Release\FocusingLensAligner.PasswordPanel.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220706\FocusingLensAligner\obj\Release\FocusingLensAligner.ProductConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220706\FocusingLensAligner\obj\Release\FocusingLensAligner.SystemConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220706\FocusingLensAligner\obj\Release\FocusingLensAligner.AxisConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220706\FocusingLensAligner\obj\Release\FocusingLensAligner.MainForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220706\FocusingLensAligner\obj\Release\FocusingLensAligner.ForceSensorConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220706\FocusingLensAligner\obj\Release\FocusingLensAligner.IAIGripperConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220706\FocusingLensAligner\obj\Release\FocusingLensAligner.IOConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220706\FocusingLensAligner\obj\Release\FocusingLensAligner.QRCodeScannerConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220706\FocusingLensAligner\obj\Release\FocusingLensAligner.SMCCardMotionConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220706\FocusingLensAligner\obj\Release\FocusingLensAligner.MESConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220706\FocusingLensAligner\obj\Release\FocusingLensAligner.Properties.Resources.resources
+D:\Lens2 C#\Focusing Lens Aligner_20220706\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.GenerateResource.cache
+D:\Lens2 C#\Focusing Lens Aligner_20220706\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CoreCompileInputs.cache
+D:\Lens2 C#\Focusing Lens Aligner_20220706\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CopyComplete
+D:\Lens2 C#\Focusing Lens Aligner_20220706\FocusingLensAligner\obj\Release\FocusingLensAligner.exe
+D:\Lens2 C#\Focusing Lens Aligner_20220706\FocusingLensAligner\obj\Release\FocusingLensAligner.pdb
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.0.1\Package\FocusingLensAligner.exe.config
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.0.1\Package\FocusingLensAligner.exe
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.0.1\Package\FocusingLensAligner.pdb
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.EngineerForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyTestForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.PasswordPanel.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.ProductConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.SystemConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.AxisConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.MainForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.ForceSensorConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.IOConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.QRCodeScannerConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.SMCCardMotionConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.MESConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.Properties.Resources.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.GenerateResource.cache
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CoreCompileInputs.cache
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CopyComplete
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.exe
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.pdb
+D:\Lens2 C#\Focusing Lens Aligner_V1.0.1\Package\FocusingLensAligner.exe.config
+D:\Lens2 C#\Focusing Lens Aligner_V1.0.1\Package\FocusingLensAligner.exe
+D:\Lens2 C#\Focusing Lens Aligner_V1.0.1\Package\FocusingLensAligner.pdb
+D:\Lens2 C#\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.EngineerForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyTestForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.PasswordPanel.resources
+D:\Lens2 C#\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.ProductConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.SystemConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.AxisConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.MainForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.ForceSensorConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.IOConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.QRCodeScannerConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.SMCCardMotionConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.MESConfigForm.resources
+D:\Lens2 C#\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.Properties.Resources.resources
+D:\Lens2 C#\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.GenerateResource.cache
+D:\Lens2 C#\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CoreCompileInputs.cache
+D:\Lens2 C#\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CopyComplete
+D:\Lens2 C#\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.exe
+D:\Lens2 C#\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.pdb
+D:\Focusing Lens Aligner_V1.0.1\Package\FocusingLensAligner.exe.config
+D:\Focusing Lens Aligner_V1.0.1\Package\FocusingLensAligner.exe
+D:\Focusing Lens Aligner_V1.0.1\Package\FocusingLensAligner.pdb
+D:\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.EngineerForm.resources
+D:\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyTestForm.resources
+D:\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.PasswordPanel.resources
+D:\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.ProductConfigForm.resources
+D:\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.SystemConfigForm.resources
+D:\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.AxisConfigForm.resources
+D:\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.MainForm.resources
+D:\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.ForceSensorConfigForm.resources
+D:\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.IOConfigForm.resources
+D:\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.QRCodeScannerConfigForm.resources
+D:\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.SMCCardMotionConfigForm.resources
+D:\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.MESConfigForm.resources
+D:\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.Properties.Resources.resources
+D:\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.GenerateResource.cache
+D:\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CoreCompileInputs.cache
+D:\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CopyComplete
+D:\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.exe
+D:\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.pdb
+D:\Focusing Lens Aligner_V1.0.1\FocusingLensAligner\obj\Release\FocusingLensAligner.csprojAssemblyReference.cache
+D:\Focusing Lens Aligner_V1.1.0\Package\FocusingLensAligner.exe.config
+D:\Focusing Lens Aligner_V1.1.0\Package\FocusingLensAligner.exe
+D:\Focusing Lens Aligner_V1.1.0\Package\FocusingLensAligner.pdb
+D:\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.EngineerForm.resources
+D:\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyTestForm.resources
+D:\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.PasswordPanel.resources
+D:\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.ProductConfigForm.resources
+D:\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.SystemConfigForm.resources
+D:\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.AxisConfigForm.resources
+D:\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.MainForm.resources
+D:\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.ForceSensorConfigForm.resources
+D:\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.IOConfigForm.resources
+D:\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.QRCodeScannerConfigForm.resources
+D:\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.SMCCardMotionConfigForm.resources
+D:\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.MESConfigForm.resources
+D:\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.Properties.Resources.resources
+D:\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.GenerateResource.cache
+D:\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CoreCompileInputs.cache
+D:\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CopyComplete
+D:\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.exe
+D:\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.pdb
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.1.0\Package\FocusingLensAligner.exe.config
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.1.0\Package\FocusingLensAligner.exe
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.1.0\Package\FocusingLensAligner.pdb
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.EngineerForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyTestForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.PasswordPanel.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.ProductConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.SystemConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.AxisConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.MainForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.ForceSensorConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.IOConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.QRCodeScannerConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.SMCCardMotionConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.MESConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.Properties.Resources.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.GenerateResource.cache
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CoreCompileInputs.cache
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CopyComplete
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.exe
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.pdb
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.1.0\FocusingLensAligner\obj\Release\FocusingLensAligner.csprojAssemblyReference.cache
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\Package\FocusingLensAligner.exe.config
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\Package\FocusingLensAligner.exe
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\Package\FocusingLensAligner.pdb
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.EngineerForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyTestForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.PasswordPanel.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.ProductConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.SystemConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.AxisConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.MainForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.ForceSensorConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.IOConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.QRCodeScannerConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.SMCCardMotionConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.MESConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.Properties.Resources.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.GenerateResource.cache
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CoreCompileInputs.cache
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CopyComplete
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.exe
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.pdb
+D:\Focusing Lens Aligner_V1.2.0\Package\FocusingLensAligner.exe.config
+D:\Focusing Lens Aligner_V1.2.0\Package\FocusingLensAligner.exe
+D:\Focusing Lens Aligner_V1.2.0\Package\FocusingLensAligner.pdb
+D:\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.EngineerForm.resources
+D:\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyTestForm.resources
+D:\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.PasswordPanel.resources
+D:\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.ProductConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.SystemConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.AxisConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.MainForm.resources
+D:\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.ForceSensorConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.IOConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.QRCodeScannerConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.SMCCardMotionConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.MESConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.Properties.Resources.resources
+D:\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.GenerateResource.cache
+D:\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CoreCompileInputs.cache
+D:\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CopyComplete
+D:\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.exe
+D:\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.pdb
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.VisionProcessEditForm.resources
+D:\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.VisionProcessEditForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.0\FocusingLensAligner\obj\Release\FocusingLensAligner.csprojAssemblyReference.cache
+D:\Focusing Lens Aligner_V1.2.1\Package\FocusingLensAligner.exe.config
+D:\Focusing Lens Aligner_V1.2.1\Package\FocusingLensAligner.exe
+D:\Focusing Lens Aligner_V1.2.1\Package\FocusingLensAligner.pdb
+D:\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.EngineerForm.resources
+D:\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyTestForm.resources
+D:\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.PasswordPanel.resources
+D:\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.ProductConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.SystemConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.VisionProcessEditForm.resources
+D:\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.AxisConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.MainForm.resources
+D:\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.ForceSensorConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.IOConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.QRCodeScannerConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.SMCCardMotionConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.MESConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.Properties.Resources.resources
+D:\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.GenerateResource.cache
+D:\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CoreCompileInputs.cache
+D:\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CopyComplete
+D:\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.exe
+D:\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.pdb
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\Package\FocusingLensAligner.exe.config
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\Package\FocusingLensAligner.exe
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\Package\FocusingLensAligner.pdb
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.EngineerForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyTestForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.PasswordPanel.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.ProductConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.SystemConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.VisionProcessEditForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.AxisConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.MainForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.ForceSensorConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.IOConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.QRCodeScannerConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.SMCCardMotionConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.MESConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.Properties.Resources.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.GenerateResource.cache
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CoreCompileInputs.cache
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CopyComplete
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.exe
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.pdb
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyOffset.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.1\FocusingLensAligner\obj\Release\FocusingLensAligner.csprojAssemblyReference.cache
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\Package\FocusingLensAligner.exe.config
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\Package\FocusingLensAligner.exe
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\Package\FocusingLensAligner.pdb
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.EngineerForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyOffset.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyTestForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.PasswordPanel.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.ProductConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.SystemConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.VisionProcessEditForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.AxisConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.MainForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.ForceSensorConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.IOConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.QRCodeScannerConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.SMCCardMotionConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.MESConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.Properties.Resources.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.GenerateResource.cache
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CoreCompileInputs.cache
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CopyComplete
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.exe
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.pdb
+D:\Focusing Lens Aligner_V1.2.2\Package\FocusingLensAligner.exe.config
+D:\Focusing Lens Aligner_V1.2.2\Package\FocusingLensAligner.exe
+D:\Focusing Lens Aligner_V1.2.2\Package\FocusingLensAligner.pdb
+D:\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.EngineerForm.resources
+D:\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyOffset.resources
+D:\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyTestForm.resources
+D:\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.PasswordPanel.resources
+D:\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.ProductConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.SystemConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.VisionProcessEditForm.resources
+D:\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.AxisConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.MainForm.resources
+D:\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.ForceSensorConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.IOConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.QRCodeScannerConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.SMCCardMotionConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.MESConfigForm.resources
+D:\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.Properties.Resources.resources
+D:\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.GenerateResource.cache
+D:\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CoreCompileInputs.cache
+D:\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CopyComplete
+D:\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.exe
+D:\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.pdb
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.2\FocusingLensAligner\obj\Release\FocusingLensAligner.csprojAssemblyReference.cache
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\Package\FocusingLensAligner.exe.config
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\Package\FocusingLensAligner.exe
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\Package\FocusingLensAligner.pdb
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.EngineerForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyOffset.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyTestForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.PasswordPanel.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.ProductConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.SystemConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.VisionProcessEditForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.AxisConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.MainForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.ForceSensorConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.IOConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.QRCodeScannerConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.SMCCardMotionConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.MESConfigForm.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.Properties.Resources.resources
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.GenerateResource.cache
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CoreCompileInputs.cache
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CopyComplete
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.exe
+D:\Machine Project\OSA Focusing Lens Aligner\C#版本代码\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.pdb
+D:\Nano\Focusing Lens Aligner_V1.2.3\Package\FocusingLensAligner.exe.config
+D:\Nano\Focusing Lens Aligner_V1.2.3\Package\FocusingLensAligner.exe
+D:\Nano\Focusing Lens Aligner_V1.2.3\Package\FocusingLensAligner.pdb
+D:\Nano\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.EngineerForm.resources
+D:\Nano\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyOffset.resources
+D:\Nano\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyTestForm.resources
+D:\Nano\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.PasswordPanel.resources
+D:\Nano\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.ProductConfigForm.resources
+D:\Nano\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.SystemConfigForm.resources
+D:\Nano\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.VisionProcessEditForm.resources
+D:\Nano\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.AxisConfigForm.resources
+D:\Nano\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.MainForm.resources
+D:\Nano\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.ForceSensorConfigForm.resources
+D:\Nano\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.IOConfigForm.resources
+D:\Nano\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.QRCodeScannerConfigForm.resources
+D:\Nano\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.SMCCardMotionConfigForm.resources
+D:\Nano\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.MESConfigForm.resources
+D:\Nano\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.Properties.Resources.resources
+D:\Nano\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.GenerateResource.cache
+D:\Nano\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CoreCompileInputs.cache
+D:\Nano\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CopyComplete
+D:\Nano\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.exe
+D:\Nano\Focusing Lens Aligner_V1.2.3\FocusingLensAligner\obj\Release\FocusingLensAligner.pdb
+D:\FocusAligner\Focusing Lens Aligner_V1.2.3-L\FocusingLensAligner\obj\Release\FocusingLensAligner.csprojAssemblyReference.cache
+D:\FocusAligner\Focusing Lens Aligner_V1.2.3-L\FocusingLensAligner\obj\Release\FocusingLensAligner.exe.config
+D:\FocusAligner\Focusing Lens Aligner_V1.2.3-L\FocusingLensAligner\obj\Release\FocusingLensAligner.EngineerForm.resources
+D:\FocusAligner\Focusing Lens Aligner_V1.2.3-L\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyOffset.resources
+D:\FocusAligner\Focusing Lens Aligner_V1.2.3-L\FocusingLensAligner\obj\Release\FocusingLensAligner.EpoxyTestForm.resources
+D:\FocusAligner\Focusing Lens Aligner_V1.2.3-L\FocusingLensAligner\obj\Release\FocusingLensAligner.PasswordPanel.resources
+D:\FocusAligner\Focusing Lens Aligner_V1.2.3-L\FocusingLensAligner\obj\Release\FocusingLensAligner.ProductConfigForm.resources
+D:\FocusAligner\Focusing Lens Aligner_V1.2.3-L\FocusingLensAligner\obj\Release\FocusingLensAligner.SystemConfigForm.resources
+D:\FocusAligner\Focusing Lens Aligner_V1.2.3-L\FocusingLensAligner\obj\Release\FocusingLensAligner.VisionProcessEditForm.resources
+D:\FocusAligner\Focusing Lens Aligner_V1.2.3-L\FocusingLensAligner\obj\Release\FocusingLensAligner.AxisConfigForm.resources
+D:\FocusAligner\Focusing Lens Aligner_V1.2.3-L\FocusingLensAligner\obj\Release\FocusingLensAligner.MainForm.resources
+D:\FocusAligner\Focusing Lens Aligner_V1.2.3-L\FocusingLensAligner\obj\Release\FocusingLensAligner.ForceSensorConfigForm.resources
+D:\FocusAligner\Focusing Lens Aligner_V1.2.3-L\FocusingLensAligner\obj\Release\FocusingLensAligner.IOConfigForm.resources
+D:\FocusAligner\Focusing Lens Aligner_V1.2.3-L\FocusingLensAligner\obj\Release\FocusingLensAligner.QRCodeScannerConfigForm.resources
+D:\FocusAligner\Focusing Lens Aligner_V1.2.3-L\FocusingLensAligner\obj\Release\FocusingLensAligner.SMCCardMotionConfigForm.resources
+D:\FocusAligner\Focusing Lens Aligner_V1.2.3-L\FocusingLensAligner\obj\Release\FocusingLensAligner.MESConfigForm.resources
+D:\FocusAligner\Focusing Lens Aligner_V1.2.3-L\FocusingLensAligner\obj\Release\FocusingLensAligner.Properties.Resources.resources
+D:\FocusAligner\Focusing Lens Aligner_V1.2.3-L\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.GenerateResource.cache
+D:\FocusAligner\Focusing Lens Aligner_V1.2.3-L\FocusingLensAligner\obj\Release\FocusingLensAligner.csproj.CoreCompileInputs.cache
+D:\FocusAligner\Focusing Lens Aligner_V1.2.3-L\FocusingLensAligner\obj\Release\FocusingLensAligner.exe
+D:\FocusAligner\Focusing Lens Aligner_V1.2.3-L\FocusingLensAligner\obj\Release\FocusingLensAligner.pdb

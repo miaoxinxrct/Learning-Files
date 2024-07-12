@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="XMLSchema" targetNamespace="http://tempuri.org/XMLSchema1.xsd" elementFormDefault="qualified"
+	xmlns="http://tempuri.org/XMLSchema1.xsd" xmlns:mstns="http://tempuri.org/XMLSchema1.xsd"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="ModuleSummary">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="_x0040_UniqueID" type="xs:string" minOccurs="0" />
+				<xs:element name="_x0040_SessionID" type="xs:string" minOccurs="0" />
+				<xs:element name="_x0040_Container" type="xs:string" minOccurs="0" />
+				<xs:element name="_x0040_TimeStamp" type="xs:dateTime" minOccurs="0" />
+				<xs:element name="_x0040_DcdName" type="xs:string" minOccurs="0" />
+				<xs:element name="_x0040_WrittenToMES" type="xs:string" minOccurs="0" />
+				<xs:element name="_x0040_WriteStatus" type="xs:string" minOccurs="0" />
+				<xs:element name="ModuleSerialNum" type="xs:string" minOccurs="0" />
+				<xs:element name="ModuleType" type="xs:string" minOccurs="0" />
+				<xs:element name="ModulePartNum" type="xs:string" minOccurs="0" />
+				<xs:element name="AssemblyPartNum" type="xs:string" minOccurs="0" />
+				<xs:element name="Result" type="xs:string" minOccurs="0" />
+				<xs:element name="ErrAbbr" type="xs:string" minOccurs="0" />
+				<xs:element name="WhichTest" type="xs:string" minOccurs="0" />
+				<xs:element name="TestOperator" type="xs:string" minOccurs="0" />
+				<xs:element name="TestVersion" type="xs:string" minOccurs="0" />
+				<xs:element name="TestTimeStamp" type="xs:string" minOccurs="0" />
+				<xs:element name="TestDuration_s" type="xs:string" minOccurs="0" />
+				<xs:element name="SpecVersion" type="xs:string" minOccurs="0" />
+				<xs:element name="SpecDate" type="xs:string" minOccurs="0" />
+				<xs:element name="SpecFreq_GHz" type="xs:string" minOccurs="0" />
+				<xs:element name="IsRetest" type="xs:string" minOccurs="0" />
+				<xs:element name="Rework" type="xs:string" minOccurs="0" />
+				<xs:element name="CustomerSerialNum" type="xs:string" minOccurs="0" />
+				<xs:element name="OriginalPartNum" type="xs:string" minOccurs="0" />
+				<xs:element name="OsaSerialNum" type="xs:string" minOccurs="0" />
+				<xs:element name="OsaPartNum" type="xs:string" minOccurs="0" />
+				<xs:element name="HeaderSerialNum" type="xs:string" minOccurs="0" />
+				<xs:element name="TestPlanName" type="xs:string" minOccurs="0" />
+				<xs:element name="TestPlanVersion" type="xs:string" minOccurs="0" />
+				<xs:element name="TestPlanDate" type="xs:string" minOccurs="0" />
+				<xs:element name="TosaAssemblyNum" type="xs:string" minOccurs="0" />
+				<xs:element name="BasePartNum" type="xs:string" minOccurs="0" />
+				<xs:element name="BaseAssemblyNum" type="xs:string" minOccurs="0" />
+				<xs:element name="TestStation" type="xs:string" minOccurs="0" />
+				<xs:element name="ProductType" type="xs:string" minOccurs="0" />
+				<xs:element name="_x0040_LossBonusTaken" type="xs:string" minOccurs="0" />
+				<xs:element name="_x0040_LossBonusStatus" type="xs:string" minOccurs="0" />
+				<xs:element name="TestResult" type="xs:string" minOccurs="0" />
+			</xs:sequence>
+		</xs:complexType>
+		<xs:unique name="ModuleSummaryUniqueIDKey" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//ModuleSummary" />
+			<xs:field xpath="@UniqueID" />
+		</xs:unique>
+	</xs:element>
+	<xs:element name="dce_main">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="_x0040_UniqueID" type="xs:string" minOccurs="0" />
+				<xs:element name="_x0040_SessionID" type="xs:string" minOccurs="0" />
+				<xs:element name="_x0040_Container" type="xs:string" minOccurs="0" />
+				<xs:element name="_x0040_TimeStamp" type="xs:dateTime" minOccurs="0" />
+				<xs:element name="_x0040_DcdName" type="xs:string" minOccurs="0" />
+				<xs:element name="_x0040_WrittenToMES" type="xs:string" minOccurs="0" />
+                                <xs:element name="_x0040_WriteStatus" type="xs:string" minOccurs="0" />
+                                <xs:element name="ILCWRT" type="xs:string" minOccurs="0" />
+				<xs:element name="ParentHistoryId" type="xs:string" minOccurs="0" />
+				<xs:element name="UsedExfo" type="xs:string" minOccurs="0" />
+				<xs:element name="EepromConnector" type="xs:string" minOccurs="0" />
+				<xs:element name="EepromDate" type="xs:string" minOccurs="0" />
+				<xs:element name="EepromModulePartNum" type="xs:string" minOccurs="0" />
+				<xs:element name="EepromModuleType" type="xs:string" minOccurs="0" />
+				<xs:element name="EepromRev" type="xs:string" minOccurs="0" />
+				<xs:element name="EepromSerialNum" type="xs:string" minOccurs="0" />
+				<xs:element name="Case_Diag_TempDelta" type="xs:string" minOccurs="0"  />
+                        	<xs:element name="Error_mA" type="xs:string" minOccurs="0"  />
+				<xs:element name="VerifyVCCError" type="xs:string" minOccurs="0"  />
+                                <xs:element name="ER_dB" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Ldi_mA" type="xs:string" minOccurs="0"  />
+                                <xs:element name="PreAlign_Power" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Post_Welding_Power" type="xs:string" minOccurs="0"  />
+                                <xs:element name="PWS" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Welding_Status" type="xs:string" minOccurs="0"  />
+                                <xs:element name="DCA" type="xs:string" minOccurs="0"  />
+                                <xs:element name="PowerAfterAlign" type="xs:string" minOccurs="0"  />
+                                <xs:element name="PeakPower" type="xs:string" minOccurs="0"  />
+                                <xs:element name="AlignTime" type="xs:string" minOccurs="0"  />
+                                <xs:element name="TotalTime" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Power_Prev" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Power_After" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L0_L" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L1_L" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L2_L" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L3_L" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L0_R" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L1_R" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L2_R" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L3_R" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L0_Center" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L1_Center" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L2_Center" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L3_Center" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L0_Leftvolt" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L1_Leftvolt" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L2_Leftvolt" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L3_Leftvolt" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L0_MinLoss" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L1_MinLoss" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L2_MinLoss" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L3_MinLoss" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L0_MaxLoss" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L1_MaxLoss" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L2_MaxLoss" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L3_MaxLoss" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L0_Ripple" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L1_Ripple" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L2_Ripple" type="xs:string" minOccurs="0"  />
+                                <xs:element name="L3_Ripple" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Channel_1_V" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Channel_2_V" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Channel_3_V" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Channel_4_V" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Channel_1_RSSI" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Channel_2_RSSI" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Channel_3_RSSI" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Channel_4_RSSI" type="xs:string" minOccurs="0"  />
+                                <xs:element name="BfUV_CH1" type="xs:string" minOccurs="0"  />
+                                <xs:element name="BfUV_CH2" type="xs:string" minOccurs="0"  />
+                                <xs:element name="BfUV_CH3" type="xs:string" minOccurs="0"  />
+                                <xs:element name="BfUV_CH4" type="xs:string" minOccurs="0"  />
+                                <xs:element name="AfUV_CH1" type="xs:string" minOccurs="0"  />
+                                <xs:element name="AfUV_CH2" type="xs:string" minOccurs="0"  />
+                                <xs:element name="AfUV_CH3" type="xs:string" minOccurs="0"  />
+                                <xs:element name="AfUV_CH4" type="xs:string" minOccurs="0"  />
+                                <xs:element name="AfBK_CH1" type="xs:string" minOccurs="0"  />
+                                <xs:element name="AfBK_CH2" type="xs:string" minOccurs="0"  />
+                                <xs:element name="AfBK_CH3" type="xs:string" minOccurs="0"  />
+                                <xs:element name="AfBK_CH4" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Ch1_Re_Align_PWR" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Ch2_Re_Align_PWR" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Ch3_Re_Align_PWR" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Ch4_Re_Align_PWR" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Ch1_Final_PWR" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Ch2_Final_PWR" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Ch3_Final_PWR" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Ch4_Final_PWR" type="xs:string" minOccurs="0"  />
+                                <xs:element name="PWS1" type="xs:string" minOccurs="0"  /> 
+                                <xs:element name="PWS2" type="xs:string" minOccurs="0"  />
+                                <xs:element name="PWS3" type="xs:string" minOccurs="0"  />
+                                <xs:element name="PWS4" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Uniformity" type="xs:string" minOccurs="0"  />
+                                <xs:element name="RSSI_CH1" type="xs:string" minOccurs="0"  />
+                                <xs:element name="RSSI_CH2" type="xs:string" minOccurs="0"  />
+                                <xs:element name="RSSI_CH3" type="xs:string" minOccurs="0"  />
+                                <xs:element name="RSSI_CH4" type="xs:string" minOccurs="0"  />
+                                <xs:element name="IL_CH1" type="xs:string" minOccurs="0"  />
+                                <xs:element name="IL_CH2" type="xs:string" minOccurs="0"  />
+                                <xs:element name="IL_CH3" type="xs:string" minOccurs="0"  />
+                                <xs:element name="IL_CH4" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Ripple_CH1" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Ripple_CH2" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Ripple_CH3" type="xs:string" minOccurs="0"  />
+                                <xs:element name="Ripple_CH4" type="xs:string" minOccurs="0"  />
+                                <xs:element name="StartTime" type="xs:string" minOccurs="0"  />
+                                <xs:element name="EndTime" type="xs:string" minOccurs="0"  />
+                                <xs:element name="CycleTime" type="xs:string" minOccurs="0"  />
+								
+ 
+<xs:element name="Temperature" type="xs:string" minOccurs="0"  />
+ <xs:element name="BeUvLen1Power_LC" type="xs:string" minOccurs="0"  />
+ <xs:element name="BeUvCocPower_LC" type="xs:string" minOccurs="0"  />
+ <xs:element name="BeUvCE_LC" type="xs:string" minOccurs="0"  />
+ <xs:element name="BeUvLen1Power_MC" type="xs:string" minOccurs="0"  />
+ <xs:element name="BeUvCocPower_MC" type="xs:string" minOccurs="0"  />
+ <xs:element name="BeUvCE_MC" type="xs:string" minOccurs="0"  />
+ <xs:element name="BeUvLen1Power_HC" type="xs:string" minOccurs="0"  />
+ <xs:element name="BeUvCocPower_HC" type="xs:string" minOccurs="0"  />
+ <xs:element name="BeUvCE_HC" type="xs:string" minOccurs="0"  />
+ <xs:element name="ArUvLen1Power_LC" type="xs:string" minOccurs="0"  />
+ <xs:element name="ArUvCocPower_LC" type="xs:string" minOccurs="0"  />
+ <xs:element name="ArCE_LC" type="xs:string" minOccurs="0"  />
+ <xs:element name="ArUvLen1Power_MC" type="xs:string" minOccurs="0"  />
+ <xs:element name="ArUvCocPower_MC" type="xs:string" minOccurs="0"  />
+ <xs:element name="ArCE_MC" type="xs:string" minOccurs="0"  />
+ <xs:element name="ArUvLen1Power_HC" type="xs:string" minOccurs="0"  />
+ <xs:element name="ArUvCocPower_HC" type="xs:string" minOccurs="0"  />
+
+
+
+<xs:element name="ArBakeLen1Power_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArBakeCocPower_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArBakeCE_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArBakeLen1Power_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArBakeCocPower_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArBakeCE_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArBakeLen1Power_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArBakeCocPower_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArBakeCE_HC" type="xs:string" minOccurs="0"  />
+
+
+
+<xs:element name="BeUvPhCurr_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvPD1_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvPD2_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvPD2ms1_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvPhCurr_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvPD1_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvPD2_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvPD2ms1_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvPhCurr_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvPD1_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvPD2_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvPD2ms1_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvPhCurr_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvPD1_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvPD2_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvPD2ms1_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvPhCurr_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvPD1_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvPD2_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvPD2ms1_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvPhCurr_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvPD1_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvPD2_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvPD2ms1_HC" type="xs:string" minOccurs="0"  />
+
+
+
+<xs:element name="ArBakePhCurr_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArBakePD1_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArBakePD2_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArBakePD2ms1_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArBakePhCurr_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArBakePD1_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArBakePD2_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArBakePD2ms1_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArBakePhCurr_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArBakePD1_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArBakePD2_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArBakePD2ms1_HC" type="xs:string" minOccurs="0"  />
+
+
+
+
+<xs:element name="BeUvITU_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvRatioP5GHz_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvRatioM5GHz_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvMidRatio_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvItuRatio_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvER_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvPD1Resp_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvFreq_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvITU_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvRatioP5GHz_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvRatioM5GHz_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvMidRatio_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvItuRatio_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvER_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvPD1Resp_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvFreq_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvITU_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvRatioP5GHz_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvRatioM5GHz_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvMidRatio_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvItuRatio_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvER_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvPD1Resp_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeUvFreq_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvITU_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvRatioP5GHz_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvRatioM5GHz_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvMidRatio_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvItuRatio_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvER_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvPD1Resp_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvFreq_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvITU_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvRatioP5GHz_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvRatioM5GHz_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvMidRatio_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvItuRatio_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvER_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvPD1Resp_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvFreq_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvITU_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvRatioP5GHz_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvRatioM5GHz_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvMidRatio_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvItuRatio_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvER_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvPD1Resp_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArUvFreq_HC" type="xs:string" minOccurs="0"  />
+
+
+
+<xs:element name="ArrbakeITU_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakeRatioP5GHz_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakeRatioM5GHz_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakeMidRatio_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakeItuRatio_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakeER_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakePD1Resp_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakeFreq_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakeITU_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakeRatioP5GHz_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakeRatioM5GHz_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakeMidRatio_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakeItuRatio_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakeER_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakePD1Resp_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakeFreq_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakeITU_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakeRatioP5GHz_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakeRatioM5GHz_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakeMidRatio_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakeItuRatio_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakeER_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakePD1Resp_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArrbakeFreq_HC" type="xs:string" minOccurs="0"  />
+
+
+
+
+
+<xs:element name="Shift30C_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="PeakITU30C_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="Shift75C_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="PeakITU75C_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="DetlaFreq_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArWiresNum_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="OrigWiresNum_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="WiresNum_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="Shift30C_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="PeakITU30C_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="Shift75C_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="PeakITU75C_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="DetlaFreq_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArWiresNum_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="OrigWiresNum_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="WiresNum_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="Comment" type="xs:string" minOccurs="0"  />
+<xs:element name="Shift30C_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="PeakITU30C_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="Shift75C_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="PeakITU75C_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="DetlaFreq_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArWiresNum_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="OrigWiresNum_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="WiresNum_HC" type="xs:string" minOccurs="0"  />
+
+
+
+<xs:element name="BeLwPower_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="PwsSloove_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="Pws_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArLwPower_LC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeLwPower_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="PwsSloove_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="Pws_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArLwPower_MC" type="xs:string" minOccurs="0"  />
+<xs:element name="BeLwPower_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="PwsSloove_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="Pws_HC" type="xs:string" minOccurs="0"  />
+<xs:element name="ArLwPower_HC" type="xs:string" minOccurs="0"  />
+
+<xs:element name="TestStationSlotID" type="xs:string" minOccurs="0" />
+<xs:element name="BoardNo" type="xs:string" minOccurs="0" />
+<xs:element name="ChannelNum" type="xs:string" minOccurs="0"  />
+<xs:element name="FailureMode" type="xs:string" minOccurs="0"  />
+<xs:element name="Channel_Retest_Times" type="xs:string" minOccurs="0"  />
+<xs:element name="SLOPE" type="xs:string" minOccurs="0"  />
+<xs:element name="THOLD" type="xs:string" minOccurs="0"  />
+<xs:element name="KINK" type="xs:string" minOccurs="0"  />
+<xs:element name="KINK2" type="xs:string" minOccurs="0"  />
+<xs:element name="PO_LD" type="xs:string" minOccurs="0"  />
+<xs:element name="PO_LD_18" type="xs:string" minOccurs="0"  />
+<xs:element name="PO_LD_25" type="xs:string" minOccurs="0"  />
+<xs:element name="PO_LD_127" type="xs:string" minOccurs="0"  />
+<xs:element name="Delta_SLOPE" type="xs:string" minOccurs="0"  />
+<xs:element name="Delta_THOLD" type="xs:string" minOccurs="0"  />
+<xs:element name="Delta_LTHOLD" type="xs:string" minOccurs="0"  />
+<xs:element name="Delta_KINK" type="xs:string" minOccurs="0"  />
+<xs:element name="Delta_KINK2" type="xs:string" minOccurs="0"  />
+<xs:element name="Delta_PO_LD" type="xs:string" minOccurs="0"  />
+<xs:element name="Delta_PO_LD_18" type="xs:string" minOccurs="0"  />
+<xs:element name="Delta_PO_LD_25" type="xs:string" minOccurs="0"  />
+<xs:element name="Delta_PO_LD_127" type="xs:string" minOccurs="0"  />
+<xs:element name="Std_Slope_PostBI" type="xs:string" minOccurs="0"  />
+<xs:element name="Std_THOLD_PostBI" type="xs:string" minOccurs="0"  />
+<xs:element name="Std_KINK_PostBI" type="xs:string" minOccurs="0"  />
+<xs:element name="Std_KINK2_PostBI" type="xs:string" minOccurs="0"  />
+<xs:element name="Std_PO_LD_PostBI" type="xs:string" minOccurs="0"  />
+<xs:element name="Std_PO_LD_18_PostBI" type="xs:string" minOccurs="0"  />
+<xs:element name="Std_PO_LD_25_PostBI" type="xs:string" minOccurs="0"  />
+<xs:element name="PO_Uniformity" type="xs:string" minOccurs="0"  />
+<xs:element name="StdDelta_Slope" type="xs:string" minOccurs="0"  />
+<xs:element name="StdDelta_THOLD" type="xs:string" minOccurs="0"  />
+<xs:element name="StdDelta_KINK" type="xs:string" minOccurs="0"  />
+<xs:element name="StdDelta_KINK2" type="xs:string" minOccurs="0"  />
+<xs:element name="StdDelta_PO_LD" type="xs:string" minOccurs="0"  />
+<xs:element name="StdDeltaPO_LD_18" type="xs:string" minOccurs="0"  />
+<xs:element name="StdDeltaPO_LD_25" type="xs:string" minOccurs="0"  />
+<xs:element name="Delta_PO_Uniformity" type="xs:string" minOccurs="0"  />
+<xs:element name="Alignment_Power" type="xs:string" minOccurs="0"  />
+<xs:element name="Ibias_1" type="xs:string" minOccurs="0"  />
+<xs:element name="Vout1_1" type="xs:string" minOccurs="0"  />
+<xs:element name="Vout2_1" type="xs:string" minOccurs="0"  />
+<xs:element name="Vlaser_1" type="xs:string" minOccurs="0"  />
+<xs:element name="Ibias_2" type="xs:string" minOccurs="0"  />
+<xs:element name="Vout1_2" type="xs:string" minOccurs="0"  />
+<xs:element name="Vout2_2" type="xs:string" minOccurs="0"  />
+<xs:element name="Vlaser_2" type="xs:string" minOccurs="0"  />
+<xs:element name="VFLD" type="xs:string" minOccurs="0"  />
+<xs:element name="Rlaser" type="xs:string" minOccurs="0"  />
+<xs:element name="Delta_Ibias_1" type="xs:string" minOccurs="0"  />
+<xs:element name="Delta_Vout1_1" type="xs:string" minOccurs="0"  />
+<xs:element name="Delta_Vout2_1" type="xs:string" minOccurs="0"  />
+<xs:element name="Delta_Vlaser_1" type="xs:string" minOccurs="0"  />
+<xs:element name="Delta_Ibias_2" type="xs:string" minOccurs="0"  />
+<xs:element name="Delta_Vout1_2" type="xs:string" minOccurs="0"  />
+<xs:element name="Delta_Vout2_2" type="xs:string" minOccurs="0"  />
+<xs:element name="Delta_Vlaser_2" type="xs:string" minOccurs="0"  />
+<xs:element name="Delta_VFLD" type="xs:string" minOccurs="0"  />
+<xs:element name="Delta_Rlaser" type="xs:string" minOccurs="0"  />
+<xs:element name="Max_Bias" type="xs:string" minOccurs="0"  />
+<xs:element name="Max_Power" type="xs:string" minOccurs="0"  />
+<xs:element name="Delta_Max_Bias" type="xs:string" minOccurs="0"  />
+<xs:element name="Delta_Max_Power" type="xs:string" minOccurs="0"  />
+<xs:element name="PO_LD_AM" type="xs:string" minOccurs="0"  />
+<xs:element name="Bias_AM" type="xs:string" minOccurs="0"  />
+
+        </xs:sequence>
+		</xs:complexType>
+		<xs:unique name="TesterConfigurationUniqueIDKey" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//dc_details" />
+			<xs:field xpath="@UniqueID" />
+		</xs:unique>
+	</xs:element>
+</xs:schema>

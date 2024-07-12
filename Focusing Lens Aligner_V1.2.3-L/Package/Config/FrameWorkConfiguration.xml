@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<cFramworkConfigParameter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IsUseCamera>false</IsUseCamera>
+  <IsUseMotion>false</IsUseMotion>
+  <IsUseDAQ>false</IsUseDAQ>
+  <IsUseLight>false</IsUseLight>
+  <IsUseLaser>false</IsUseLaser>
+  <IsUseSourceMeter>false</IsUseSourceMeter>
+  <IsUseDriverProduct>false</IsUseDriverProduct>
+  <IsUseForce>false</IsUseForce>
+  <RigName>Focusing_Lens_Aligner_#42</RigName>
+  <RigNo>YGS-MK2941183</RigNo>
+  <IsAutoKill>true</IsAutoKill>
+  <WaitKillTime>10</WaitKillTime>
+  <IsAutoShowAlarmPannel>false</IsAutoShowAlarmPannel>
+  <IsAutoShowTipMessagePannel>false</IsAutoShowTipMessagePannel>
+</cFramworkConfigParameter>

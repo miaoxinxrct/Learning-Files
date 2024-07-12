@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<MESConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <singleStepFlag>true</singleStepFlag>
+  <singlestep>
+    <stepname>28N_Window Lens Alignment</stepname>
+    <CheckMoveIn>true</CheckMoveIn>
+  </singlestep>
+  <multiStepFlag>false</multiStepFlag>
+  <multistep />
+  <envrinfo>
+    <productEnvrFlag>true</productEnvrFlag>
+    <testEnvrFlag>false</testEnvrFlag>
+    <defineEnvrFlag>false</defineEnvrFlag>
+    <serverName />
+    <databaseName />
+    <userName />
+    <userPassword />
+  </envrinfo>
+  <downloadinfo>
+    <autoDownload>false</autoDownload>
+    <serverPath>\\cn-file01\Public\Project\AutomationConfig\MES</serverPath>
+  </downloadinfo>
+  <InitialMES>true</InitialMES>
+</MESConfig>

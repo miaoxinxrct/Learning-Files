@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<QR_x0020_Code_x0020_Scanner_x0020_Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Parameter>
+    <QRCodeScannerConfig>
+      <CodeScannerName>DM70S</CodeScannerName>
+      <Description>Cognex二维码扫码器</Description>
+      <SerialPort>COM7</SerialPort>
+    </QRCodeScannerConfig>
+  </Parameter>
+</QR_x0020_Code_x0020_Scanner_x0020_Config>

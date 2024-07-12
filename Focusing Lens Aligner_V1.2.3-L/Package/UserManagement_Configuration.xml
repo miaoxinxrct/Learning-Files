@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<OfflinePassword xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <administratorPassword>B24331B1A138CDE62AA1F679164FC62F</administratorPassword>
+  <engineerPassword>B24331B1A138CDE62AA1F679164FC62F</engineerPassword>
+  <operatorPassword>B24331B1A138CDE62AA1F679164FC62F</operatorPassword>
+</OfflinePassword>

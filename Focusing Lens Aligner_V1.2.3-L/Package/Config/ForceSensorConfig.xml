@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Force_x0020_Sensor_x0020_Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Parameter>
+    <ForceSensorConfig>
+      <ForceSensorName>GripperPressureSensor</ForceSensorName>
+      <Description>夹爪压力感应器</Description>
+      <SerialPort>COM1</SerialPort>
+      <BaudRate>9600</BaudRate>
+      <ForceUnit>g</ForceUnit>
+      <Accuracy>1</Accuracy>
+    </ForceSensorConfig>
+  </Parameter>
+</Force_x0020_Sensor_x0020_Config>

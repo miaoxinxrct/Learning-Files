@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<cCameraSettingCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CameraInfor>
+    <cSingleCameraSettingInformation>
+      <CCdType>AVTCCD</CCdType>
+      <CameraName>UpCamera</CameraName>
+      <CameraSn>302745805</CameraSn>
+      <ExposureTime>1000</ExposureTime>
+      <Gain>0</Gain>
+      <Height>960</Height>
+      <Width>1280</Width>
+      <Format>NA</Format>
+    </cSingleCameraSettingInformation>
+  </CameraInfor>
+</cCameraSettingCollection>

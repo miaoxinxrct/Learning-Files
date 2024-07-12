@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<FI2CConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DeviceInfor>
+    <DeviceConfig>
+      <DeviceType>FSB</DeviceType>
+      <Address>1</Address>
+      <Name>FI2CUSB</Name>
+    </DeviceConfig>
+  </DeviceInfor>
+</FI2CConfig>

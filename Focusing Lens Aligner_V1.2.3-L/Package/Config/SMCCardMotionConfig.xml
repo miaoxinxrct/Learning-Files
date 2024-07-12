@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<SMC_x0020_LATCA_x0020_Controller_x0020_Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Parameter>
+    <SMCCardMotionConfig>
+      <AxisName>PogoPin</AxisName>
+      <Description>加电PogoPin卡片电机轴</Description>
+      <SerialPort>COM9</SerialPort>
+    </SMCCardMotionConfig>
+  </Parameter>
+</SMC_x0020_LATCA_x0020_Controller_x0020_Config>
